@@ -1,7 +1,5 @@
 import logo from "../logo.svg";
 import "../Scss/App.scss";
-import { Chip } from "@mui/material";
-import * as React from "react";
 
 function App() {
   return (
