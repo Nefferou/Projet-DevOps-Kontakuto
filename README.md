@@ -7,11 +7,11 @@ Il a pour finalité de communiquer avec un Back-End.
 ## Présentation de l'équipe
 |Rôle      |Personnes           |
 |----------|:-------------------|
+|Chef      |Juien FERTILATI     |
+|Secretaire|Yves-Robert ESTRADA |
+|CréateurMD|Ryan MARIN          |
 |          |Guilhem MAGAUD      |
 |          |Sinclair BALIVET    |
-|          |Juien FERTILATI     |
-|          |Yves-Robert ESTRADA |
-|          |Ryan MARIN          |
 
 # DÉVELOPPEMENT
 
