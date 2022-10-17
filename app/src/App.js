@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.scss';
+import * as React from 'react';
+import Chip from '@mui/material/Button';
 
 function App() {
   return (
@@ -17,6 +19,10 @@ function App() {
         >
           Learn React
         </a>
+
+        <Chip label="Chip Filled" />
+        <Chip label="Chip Outlined" variant="outlined" />
+
       </header>
     </div>
   );
