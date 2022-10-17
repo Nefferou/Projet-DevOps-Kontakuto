@@ -1,5 +1,6 @@
-import logo from '../logo.svg';
-import '../Scss/App.scss';
+import logo from "../logo.svg";
+import "../Scss/App.scss";
+import { Chip } from "@mui/material";
 
 function App() {
   return (
@@ -17,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+
+        <Chip label="Chip Filled" />
+        <Chip label="Chip Outlined" variant="outlined" />
       </header>
     </div>
   );
