@@ -5,13 +5,13 @@ Ce projet est une application Front-End React utilisant un système Docker.
 Il a pour finalité de communiquer avec un Back-End.
 
 ## Présentation de l'équipe
-|Rôle      |Personnes           |
-|----------|:-------------------|
-|Chef      |Juien FERTILATI     |
-|Secretaire|Yves-Robert ESTRADA |
-|CréateurMD|Ryan MARIN          |
-|          |Guilhem MAGAUD      |
-|          |Sinclair BALIVET    |
+|Rôle          |Personnes           |
+|--------------|:-------------------|
+|Chef de projet|Ryan MARIN          |
+|              |Juien FERTILATI     |
+|              |Yves-Robert ESTRADA |
+|              |Guilhem MAGAUD      |
+|              |Sinclair BALIVET    |
 
 # DÉVELOPPEMENT
 
