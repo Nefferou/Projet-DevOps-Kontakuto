@@ -17,9 +17,6 @@ function App() {
         >
           Learn React
         </a>
-
-        <Chip label="Chip Filled" />
-        <Chip label="Chip Outlined" variant="outlined" />
       </header>
     </div>
   );
