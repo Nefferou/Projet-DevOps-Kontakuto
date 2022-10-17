@@ -5,7 +5,7 @@ Ce projet est une application Front-End React utilisant un système Docker.
 Il a pour finalité de communiquer avec un Back-End.
 
 ## Présentation de l'équipe
-|Rôle      | Person             |
+|Rôle      |Personnes           |
 |----------|:-------------------|
 |          |Guilhem MAGAUD      |
 |          |Sinclair BALIVET    |
