@@ -10,7 +10,7 @@ Il a pour finalité de communiquer avec un Back-End.
 |Chef de projet|Ryan MARIN          |
 |              |Juien FERTILATI     |
 |              |Yves-Robert ESTRADA |
-|              |Anthony Viano       |
+|              |Anthony VIANO       |
 |              |Guilhem MAGAUD      |
 |              |Sinclair BALIVET    |
 
