@@ -1,24 +1,18 @@
-import logo from '../logo.svg';
 import '../Scss/App.scss';
+import {AppBar, Stack, Typography} from "@mui/material";
+import SearchIcon from '@mui/icons-material/Search';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <AppBar>
+          <Stack direction={"row"}>
+              <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+                  Kontakuto
+              </Typography>
 
-      </header>
+          </Stack>
+      </AppBar>
     </div>
   );
 }
