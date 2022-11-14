@@ -7,15 +7,12 @@ env:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: node:alpine
 
     strategy:
       matrix:
         image:
-          - basic
-          - lockfile
-          - slim
-          - secure
+          - app
 
     steps:
       - uses: actions/checkout@v2
@@ -45,4 +42,3 @@ jobs:
           --label "org.label-schema.vcs-ref=$GITHUB_SHA"
           --tag $DOCKER_IMAGE
       - run: docker push $DOCKER_IMAGE
-      #test
